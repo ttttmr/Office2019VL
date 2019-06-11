@@ -2,7 +2,7 @@
 
 ## Config
 
-Modify the office_vol.xml file according to your needs. 
+Modify the office_vol.xml file according to your needs.
 
 By default, only Word, Excel and PowerPoint are installed.
 
@@ -26,4 +26,6 @@ cscript ospp.vbs /act
 
 ## More
 
-https://docs.microsoft.com/en-us/deployoffice/office2019/deploy
+Source of `setup.exe` : https://www.microsoft.com/en-us/download/details.aspx?id=49117
+
+Deploy docs : https://docs.microsoft.com/en-us/deployoffice/office2019/deploy
