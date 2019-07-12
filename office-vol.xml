@@ -12,10 +12,9 @@
 
   <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
     <Product ID="ProPlus2019Volume">
+      <!-- <Language ID="en-us" /> -->
       <Language ID="zh-cn" />
-      <!-- OneDrive for Business is Groove, Skype for Business is Lync -->
       <!-- If you need , comment it. -->
-
       <!-- <ExcludeApp ID="Word" />> -->
       <!-- <ExcludeApp ID="Excel" /> -->
       <!-- <ExcludeApp ID="PowerPoint" /> -->
@@ -25,7 +24,9 @@
       <ExcludeApp ID="Publisher" />
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Groove" />
+      <!-- OneDrive for Business => Groove -->
       <ExcludeApp ID="Lync" />
+      <!-- Skype for Business => Lync -->
     </Product>
 
     <!-- If you need Visio , uncomment it -->
