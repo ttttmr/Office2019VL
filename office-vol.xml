@@ -13,7 +13,8 @@
   <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
     <Product ID="ProPlus2019Volume">
       <!-- <Language ID="en-us" /> -->
-      <Language ID="zh-cn" />
+      <!-- <Language ID="zh-cn" /> -->
+      <Language ID="MatchOS" />
       <!-- If you need , comment it. -->
       <!-- <ExcludeApp ID="Word" />> -->
       <!-- <ExcludeApp ID="Excel" /> -->

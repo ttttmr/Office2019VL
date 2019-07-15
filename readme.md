@@ -4,9 +4,9 @@
 
 Modify the office_vol.xml file according to your needs.
 
-Support for installing Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word, Visio
+Support for installing Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word, Visio.
 
-By default, Word, Excel, and PowerPoint are installed in Chinese.
+You can use [this](https://config.office.com/deploymentsettings) to generate a new configuration file, or manually modify the `office-vol.xml` file, the default installation word, excel and PowerPoint.
 
 ## Download & Install
 
